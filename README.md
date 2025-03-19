@@ -26,3 +26,36 @@ Regarding the project, I tried to make it as flexible as possible.
 As for the JSON system, I could have made it better, but my schedule is very tight, and I wanted to complete the task as quickly as possible while delivering the best possible result. Hopefully, I will get accepted.
 
 Regarding the asset manager, it’s not the best, but I tried to implement it with the "Keep It Simple, Stupid" (KISS) principle.
+
+
+## How to Run the Application
+
+1. **Install Java Development Kit (JDK)**:
+   Ensure that you have JDK installed on your system. You can download it from the official Oracle website or use a package manager depending on your operating system.
+
+2. **Running the Application**:
+   After installing Java, navigate to the directory where the `maqsamtask.jar` file is located. Then, run the following command in your terminal:
+
+   ```java
+   java -jar filename.jar <latitude> <longitude>
+   ```
+
+   Replace `<latitude>` and `<longitude>` with the desired coordinates.
+
+3. **Configuring the Application**:
+    If you need to make any changes to the application's settings, you can do so by editing the `settings.json` file. This file contains configuration options such as API keys and mode settings.
+
+    Example of configuration:
+
+    ```json
+    {
+    "action": "mix",
+    "apiKey": "your-api-key",
+    "debugging-mode": false
+    }
+
+
+ ## NOTE
+
+ **Make sure that you have placed the images with the correct names in the "images" folder.**
+
