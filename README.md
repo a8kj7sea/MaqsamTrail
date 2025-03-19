@@ -49,7 +49,11 @@ Regarding the asset manager, it’s not the best, but I tried to implement it wi
 
     ```json
     {
-    "action": "mix",
+
+    # `Mix` for printing and changing the background. 
+    # You can also use other options like 'change' for changing the background only, 
+    # and 'print' for printing only
+    "action": "mix", 
     "apiKey": "your-api-key",
     "debugging-mode": false
     }
@@ -58,4 +62,6 @@ Regarding the asset manager, it’s not the best, but I tried to implement it wi
  ## NOTE
 
  **Make sure that you have placed the images with the correct names in the "images" folder.**
+
+
 
