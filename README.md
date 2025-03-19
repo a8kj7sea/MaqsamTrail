@@ -65,3 +65,5 @@ Regarding the asset manager, it’s not the best, but I tried to implement it wi
 
 
 
+EDIT : I SPELL TRIAL WRONG DAMNNNNNNNNNNN ;(
+
