@@ -62,7 +62,3 @@ Regarding the asset manager, it’s not the best, but I tried to implement it wi
  ## NOTE
 
  **Make sure that you have placed the images with the correct names in the "images" folder.**
-
-
-
-EDIT : I SPELL TRIAL WRONG DAMNNNNNNNNNNN ;(
