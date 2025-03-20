@@ -17,7 +17,7 @@ public abstract class BackgroundChanger {
     public abstract boolean canChange();
 
     public boolean isValidImageFile() {
-        return !backgroundImage.isFile() || this.backgroundImage == null;
+        return backgroundImage.isFile() && this.backgroundImage != null;
     }
 
 }
